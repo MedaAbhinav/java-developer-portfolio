@@ -314,6 +314,7 @@ body.light-theme .sun-icon{display:block}body.light-theme .moon-icon{display:non
 .stat-card-num{font-family:'Plus Jakarta Sans',sans-serif;font-size:2.5rem;font-weight:800;background:var(--gradient);-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;display:inline}
 .stat-card-unit{font-size:1.5rem;font-weight:700;color:var(--primary)}
 .stat-card-label{display:block;color:var(--text-muted);font-size:0.85rem;margin-top:6px}
+.stat-card-desc{display:block;color:var(--text-dim);font-size:0.72rem;margin-top:6px;line-height:1.4;padding:0 0.25rem}
 @media(max-width:768px){.about-grid{grid-template-columns:1fr;gap:3rem}.about-stats{grid-template-columns:1fr 1fr}}
 
 /* ===================================================================
