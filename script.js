@@ -77,7 +77,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
   /* ── TYPEWRITER ── */
   const tw    = document.getElementById('typewriter');
-  const roles = ['Java Developer', 'Spring Boot Developer', 'Backend Developer', 'Java Engineer'];
+  const roles = ['Java Developer', 'Spring Boot Developer', 'Backend Developer', 'Java Full Stack Developer'];
   let ri = 0, ci = 0, deleting = false;
   function typeWriter() {
     const current = roles[ri];
